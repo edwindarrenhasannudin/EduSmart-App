@@ -1,16 +1,18 @@
 # EduSmart
 
-# Latar Belakang Aplikasi 
+## Latar Belakang Aplikasi 
 <p align="justify"> 
 &emsp;&emsp;Mahasiswa sering menghadapi tantangan dalam mengelola waktu dan keuangan secara efektif selama masa studi. Jadwal kuliah yang padat, tenggat tugas dan ujian yang berdekatan, serta pengeluaran harian yang harus dikendalikan sering kali menyebabkan stres dan ketidakteraturan. Banyak dari mereka mengandalkan berbagai aplikasi berbeda seperti kalender digital, catatan manual, dan aplikasi keuangan yang tidak saling terintegrasi, sehingga menyulitkan pengelolaan aktivitas secara menyeluruh.</p>
 
 <p align="justify">
 &emsp;&emsp;EduSmart hadir sebagai solusi terpadu berbasis mobile untuk menjawab kebutuhan tersebut. Aplikasi ini dirancang khusus bagi mahasiswa agar dapat mencatat dan memantau jadwal akademik serta kondisi finansial dalam satu platform yang mudah diakses dan digunakan. Dengan menggabungkan fitur manajemen waktu, pengingat otomatis, pencatatan keuangan, dan analisis pengeluaran, EduSmart membantu mahasiswa menjadi lebih terorganisir, efisien, dan mandiri dalam menjalani kehidupan perkuliahan.</p>
 
-# Tentang Aplikasi 
-EduSmart merupakan platform digital berbasis aplikasi mobile yang dikembangkan untuk membantu mahasiswa dalam mengatur agenda akademik serta keuangan sehari-hari. Aplikasi ini menyediakan berbagai fasilitas, seperti pengelolaan jadwal perkuliahan, informasi tenggat tugas dan ujian, serta pencatatan arus kas pribadi. EduSmart bertujuan untuk membantu pengguna meningkatkan efisiensi belajar dan stabilitas keuangan.
+## Tentang Aplikasi 
+<p align="justify">
+&emsp;&emsp;EduSmart merupakan platform digital berbasis aplikasi mobile yang dikembangkan untuk membantu mahasiswa dalam mengatur agenda akademik serta keuangan sehari-hari. Aplikasi ini menyediakan berbagai fasilitas, seperti pengelolaan jadwal perkuliahan, informasi tenggat tugas dan ujian, serta pencatatan arus kas pribadi. EduSmart bertujuan untuk membantu pengguna meningkatkan efisiensi belajar dan stabilitas keuangan.</p>
    
-Dengan menggabungkan inovasi terkini, EduSmart menawarkan kemudahan dalam memantau jadwal dan keuangan melalui antarmuka yang sederhana. Fitur-fitur yang disesuaikan dengan rutinitas mahasiswa menjadikan aplikasi ini pilihan tepat bagi mereka yang ingin mengoptimalkan waktu dan pengeluaran secara terorganisir. 
+<p align="justify">
+&emsp;&emsp;Dengan menggabungkan inovasi terkini, EduSmart menawarkan kemudahan dalam memantau jadwal dan keuangan melalui antarmuka yang sederhana. Fitur-fitur yang disesuaikan dengan rutinitas mahasiswa menjadikan aplikasi ini pilihan tepat bagi mereka yang ingin mengoptimalkan waktu dan pengeluaran secara terorganisir.</p> 
 
 # Aplikasi ini menghadirkan dua fitur utama: 
 - Manajemen Jadwal Akademik
