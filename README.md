@@ -25,14 +25,11 @@
 <p align="justify">&emsp;&emsp;Untuk menjaga keamanan dan privasi data pengguna, EduSmart menyediakan sistem login yang aman berbasis email dan password. Mahasiswa dapat melakukan registrasi akun baru dengan data yang valid. Jika pengguna lupa kata sandi, tersedia fitur lupa password melalui email yang telah terdaftar. Fitur ini dirancang agar akses ke aplikasi hanya dapat dilakukan oleh pengguna yang sah, serta memberikan fleksibilitas dan kontrol penuh terhadap akun pribadi mereka.</p>
 
 ## 2. Manajemen Jadwal Akademik
-📅 Manajemen Jadwal Kuliah, Tugas, & Ujian\n
+📅 Manajemen Jadwal Kuliah, Tugas, & Ujian
 - EduSmart menyediakan fitur pencatatan jadwal akademik secara manual, di mana pengguna dapat mengisi detail seperti nama jadwal, ruangan, jenis kegiatan (kuliah, tugas, atau ujian), tanggal, jam mulai, dan jam berakhir.
-    
-&emsp;&emsp;- Aplikasi ini juga mendukung sinkronisasi dengan Flutter Calendar, memungkinkan tampilan jadwal yang lebih terorganisir dan interaktif.
-    
-&emsp;&emsp;- Tersedia tombol khusus untuk menyinkronkan data jadwal langsung dari Firestore ke halaman kalender, sehingga semua perubahan atau penambahan data dapat ter-update secara real-time.
-    
-&emsp;&emsp;- Fitur ini membantu mahasiswa mengatur aktivitas akademik mereka dengan lebih efisien dan terstruktur, serta meminimalkan risiko lupa jadwal.
+- Aplikasi ini juga mendukung sinkronisasi dengan Flutter Calendar, memungkinkan tampilan jadwal yang lebih terorganisir dan interaktif.
+- Tersedia tombol khusus untuk menyinkronkan data jadwal langsung dari Firestore ke halaman kalender, sehingga semua perubahan atau penambahan data dapat ter-update secara real-time.
+- Fitur ini membantu mahasiswa mengatur aktivitas akademik mereka dengan lebih efisien dan terstruktur, serta meminimalkan risiko lupa jadwal.
 ## 3. Manajemen Keuangan Mahasiswa
    📊 Manajemen Keuangan – Halaman Utama
    - Halaman utama pada fitur manajemen keuangan EduSmart menyajikan ringkasan informasi finansial mahasiswa secara real-time. Pengguna dapat langsung melihat total saldo saat ini, beserta rincian total pemasukan dan pengeluaran yang tercatat.
@@ -40,17 +37,19 @@
    - Selain itu, sistem menampilkan daftar tagihan yang belum lunas dan akan jatuh tempo dalam 30 hari ke depan, yang dapat diakses detailnya melalui halaman Tagihan.
    - Pengguna juga dapat memantau aktivitas keuangan terkini melalui daftar riwayat transaksi terakhir yang ditampilkan langsung pada halaman ini.
    - Untuk navigasi yang lebih cepat, disediakan tombol pintasan menuju halaman Tagihan dan Catatan Keuangan, sehingga mahasiswa dapat mengelola keuangannya dengan lebih praktis dan efisien.
+   
    💰 Pencatatan Keuangan
    - Fitur pencatatan keuangan pada EduSmart memungkinkan mahasiswa untuk mencatat arus kas pribadi secara sistematis. Pengguna dapat memasukkan data pemasukan seperti beasiswa, uang saku, atau penghasilan kerja part-time, dengan detail nama, tanggal, dan jumlah pemasukan.
    - Begitu pula dengan pencatatan pengeluaran, mahasiswa dapat mencatat transaksi harian seperti biaya makan, transportasi, atau belanja dengan memasukkan informasi nama, tanggal, dan nominal pengeluaran.
    - Untuk memberikan visualisasi yang informatif, aplikasi menampilkan grafik distribusi pengeluaran bulanan dalam bentuk pie chart, serta grafik perbandingan pemasukan dan pengeluaran secara periodik setiap bulan.
    - Selain itu, seluruh transaksi yang telah dicatat akan tersimpan dan ditampilkan dalam daftar riwayat keuangan, sehingga pengguna dapat meninjau kembali aktivitas finansial mereka kapan saja dengan mudah dan transparan.
+   
    📌 Manajemen Tagihan
    - Fitur tagihan pada EduSmart dirancang untuk membantu mahasiswa dalam mengelola kewajiban pembayaran bulanan secara lebih terorganisir dan efisien. Di halaman ini, pengguna dapat melihat informasi saldo saat ini dan batas pengeluaran bulanan yang telah ditetapkan.
    - Pengguna dapat menambahkan tagihan baru dengan memasukkan detail penting seperti nama tagihan, tanggal jatuh tempo, total nominal tagihan, dan status pembayarannya. Terdapat juga tombol atur batas, yang memungkinkan mahasiswa mengatur sendiri batas maksimal pengeluaran dalam sebulan guna menjaga stabilitas keuangan.
    - Fitur statistik tagihan menyajikan rangkuman keuangan dalam bentuk data visual dan numerik, seperti total tagihan yang sudah dan belum dibayar, persentase pengeluaran terhadap batas yang ditentukan, grafik distribusi tagihan, serta insight finansial yang dapat membantu pengambilan keputusan lebih bijak.
    - Selain itu, daftar tagihan yang ditampilkan memungkinkan pengguna untuk mengedit maupun menghapus data tagihan yang telah dimasukkan, sehingga pengelolaan tetap fleksibel dan sesuai dengan kebutuhan pengguna.
-4. Pengaturan
+## 4. Pengaturan
    ⚙️ Fitur Pengaturan
    - Halaman pengaturan pada EduSmart dirancang untuk memberikan keleluasaan bagi pengguna dalam mengelola akun dan preferensi aplikasi sesuai kebutuhan mereka. Di dalamnya, pengguna dapat melihat informasi nama dan foto profil, serta mengakses berbagai fitur pengaturan lainnya.
    - Tersedia mode tampilan gelap dan terang yang dapat diaktifkan melalui tombol khusus, sehingga pengguna dapat menyesuaikan tema aplikasi sesuai kenyamanan mata mereka saat digunakan di siang atau malam hari.
