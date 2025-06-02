@@ -66,10 +66,8 @@ EduSmart dikembangkan menggunakan:
 4. Visual Studio Code - Alat pengembangan
 
 ## Integrasi Firebase 
-a. Autentikasi - Login mahasiswa yang aman
-
-b. Firestore - Basis data real-time
-
+a. Autentikasi - Login mahasiswa yang aman<br>
+b. Firestore - Basis data real-time<br>
 c. Storage - Penyimpanan File
 
 ## Keunggulan Kombinasi Teknologi 
