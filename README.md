@@ -87,3 +87,6 @@ EduSmart dikembangkan menggunakan:
 
 ## Berikut Link Figma untuk UI/UX Design : 
 https://www.figma.com/design/EYRkMKJJlSQyAZHY4diveK/EduSmart?node-id=0-1&t=pM6z2O370nrTCjy1-1
+
+## Berikut Link Download Aplikasi EduSmart : 
+https://drive.google.com/file/d/1FFiirDbtrd89HMrHm9Q7T2wep8z3hNWh/view?usp=sharing
