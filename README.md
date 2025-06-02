@@ -26,11 +26,15 @@
 
 ## 2. Manajemen Jadwal Akademik
 &emsp;&emsp;📅 Manajemen Jadwal Kuliah, Tugas, & Ujian
-    - EduSmart menyediakan fitur pencatatan jadwal akademik secara manual, di mana pengguna dapat mengisi detail seperti nama jadwal, ruangan, jenis kegiatan (kuliah, tugas, atau ujian), tanggal, jam mulai, dan jam berakhir.
-    - Aplikasi ini juga mendukung sinkronisasi dengan Flutter Calendar, memungkinkan tampilan jadwal yang lebih terorganisir dan interaktif.
-    - Tersedia tombol khusus untuk menyinkronkan data jadwal langsung dari Firestore ke halaman kalender, sehingga semua perubahan atau penambahan data dapat ter-update secara real-time.
-    - Fitur ini membantu mahasiswa mengatur aktivitas akademik mereka dengan lebih efisien dan terstruktur, serta meminimalkan risiko lupa jadwal.
-3. Manajemen Keuangan Mahasiswa
+    
+&emsp;&emsp;- EduSmart menyediakan fitur pencatatan jadwal akademik secara manual, di mana pengguna dapat mengisi detail seperti nama jadwal, ruangan, jenis kegiatan (kuliah, tugas, atau ujian), tanggal, jam mulai, dan jam berakhir.
+    
+&emsp;&emsp;- Aplikasi ini juga mendukung sinkronisasi dengan Flutter Calendar, memungkinkan tampilan jadwal yang lebih terorganisir dan interaktif.
+    
+&emsp;&emsp;- Tersedia tombol khusus untuk menyinkronkan data jadwal langsung dari Firestore ke halaman kalender, sehingga semua perubahan atau penambahan data dapat ter-update secara real-time.
+    
+&emsp;&emsp;- Fitur ini membantu mahasiswa mengatur aktivitas akademik mereka dengan lebih efisien dan terstruktur, serta meminimalkan risiko lupa jadwal.
+## 3. Manajemen Keuangan Mahasiswa
    📊 Manajemen Keuangan – Halaman Utama
    - Halaman utama pada fitur manajemen keuangan EduSmart menyajikan ringkasan informasi finansial mahasiswa secara real-time. Pengguna dapat langsung melihat total saldo saat ini, beserta rincian total pemasukan dan pengeluaran yang tercatat.
    - Untuk membantu pengguna memahami pola belanja mereka, tersedia informasi analisis pengeluaran, yang dapat ditelusuri lebih lanjut melalui halaman Catatan Keuangan.
