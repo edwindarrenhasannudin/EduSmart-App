@@ -83,6 +83,7 @@ EduSmart dikembangkan menggunakan:
 ## Tools Android Studio 
 🖥️ Emulator untuk pengujian multi-perangkat
 
-📱 Simulasi berbagai versi Android<hr style="height: 1px; border: none; background-color: black;">
-### Berikut Link Figma untuk UI/UX Design : 
+📱 Simulasi berbagai versi Android
+
+## Berikut Link Figma untuk UI/UX Design : 
 https://www.figma.com/design/EYRkMKJJlSQyAZHY4diveK/EduSmart?node-id=0-1&t=pM6z2O370nrTCjy1-1
