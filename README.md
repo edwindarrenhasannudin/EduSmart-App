@@ -67,7 +67,9 @@ EduSmart dikembangkan menggunakan:
 
 ## Integrasi Firebase 
 a. Autentikasi - Login mahasiswa yang aman
+
 b. Firestore - Basis data real-time
+
 c. Storage - Penyimpanan File
 
 ## Keunggulan Kombinasi Teknologi 
@@ -77,9 +79,12 @@ c. Storage - Penyimpanan File
 
 ## Framework Flutter 
 ✓ Basis program yang digunakan untuk Pengembangan Aplikasi Mobile (Android) 
+
 ✓ Hot Reload & Restart (mempercepat proses pengembangan)
+
 ✓ Kumpulan widget untuk antarmuka responsif
 
 ## Tools Android Studio 
 🖥️ Emulator untuk pengujian multi-perangkat
+
 📱 Simulasi berbagai versi Android
