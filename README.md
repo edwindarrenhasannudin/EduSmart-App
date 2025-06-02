@@ -26,10 +26,10 @@
 
 ## 2. Manajemen Jadwal Akademik
 📅 Manajemen Jadwal Kuliah, Tugas, & Ujian
-- EduSmart menyediakan fitur pencatatan jadwal akademik secara manual, di mana pengguna dapat mengisi detail seperti nama jadwal, ruangan, jenis kegiatan (kuliah, tugas, atau ujian), tanggal, jam mulai, dan jam berakhir.
-- Aplikasi ini juga mendukung sinkronisasi dengan Flutter Calendar, memungkinkan tampilan jadwal yang lebih terorganisir dan interaktif.
-- Tersedia tombol khusus untuk menyinkronkan data jadwal langsung dari Firestore ke halaman kalender, sehingga semua perubahan atau penambahan data dapat ter-update secara real-time.
-- Fitur ini membantu mahasiswa mengatur aktivitas akademik mereka dengan lebih efisien dan terstruktur, serta meminimalkan risiko lupa jadwal.
+- <p align="justify">EduSmart menyediakan fitur pencatatan jadwal akademik secara manual, di mana pengguna dapat mengisi detail seperti nama jadwal, ruangan, jenis kegiatan (kuliah, tugas, atau ujian), tanggal, jam mulai, dan jam berakhir.
+- <p align="justify">Aplikasi ini juga mendukung sinkronisasi dengan Flutter Calendar, memungkinkan tampilan jadwal yang lebih terorganisir dan interaktif.
+- <p align="justify">Tersedia tombol khusus untuk menyinkronkan data jadwal langsung dari Firestore ke halaman kalender, sehingga semua perubahan atau penambahan data dapat ter-update secara real-time.
+- <p align="justify">Fitur ini membantu mahasiswa mengatur aktivitas akademik mereka dengan lebih efisien dan terstruktur, serta meminimalkan risiko lupa jadwal.
 ## 3. Manajemen Keuangan Mahasiswa
    📊 Manajemen Keuangan – Halaman Utama
    - Halaman utama pada fitur manajemen keuangan EduSmart menyajikan ringkasan informasi finansial mahasiswa secara real-time. Pengguna dapat langsung melihat total saldo saat ini, beserta rincian total pemasukan dan pengeluaran yang tercatat.
