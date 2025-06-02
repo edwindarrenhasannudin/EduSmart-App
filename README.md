@@ -2,8 +2,9 @@
 
 # Latar Belakang Aplikasi 
 <p align="justify"> 
-Mahasiswa sering menghadapi tantangan dalam mengelola waktu dan keuangan secara efektif selama masa studi. Jadwal kuliah yang padat, tenggat tugas dan ujian yang berdekatan, serta pengeluaran harian yang harus dikendalikan sering kali menyebabkan stres dan ketidakteraturan. Banyak dari mereka mengandalkan berbagai aplikasi berbeda seperti kalender digital, catatan manual, dan aplikasi keuangan yang tidak saling terintegrasi, sehingga menyulitkan pengelolaan aktivitas secara menyeluruh.
-EduSmart hadir sebagai solusi terpadu berbasis mobile untuk menjawab kebutuhan tersebut. Aplikasi ini dirancang khusus bagi mahasiswa agar dapat mencatat dan memantau jadwal akademik serta kondisi finansial dalam satu platform yang mudah diakses dan digunakan. Dengan menggabungkan fitur manajemen waktu, pengingat otomatis, pencatatan keuangan, dan analisis pengeluaran, EduSmart membantu mahasiswa menjadi lebih terorganisir, efisien, dan mandiri dalam menjalani kehidupan perkuliahan.
+   Mahasiswa sering menghadapi tantangan dalam mengelola waktu dan keuangan secara efektif selama masa studi. Jadwal kuliah yang padat, tenggat tugas dan ujian yang berdekatan, serta pengeluaran harian yang harus dikendalikan sering kali menyebabkan stres dan ketidakteraturan. Banyak dari mereka mengandalkan berbagai aplikasi berbeda seperti kalender digital, catatan manual, dan aplikasi keuangan yang tidak saling terintegrasi, sehingga menyulitkan pengelolaan aktivitas secara menyeluruh.
+
+   EduSmart hadir sebagai solusi terpadu berbasis mobile untuk menjawab kebutuhan tersebut. Aplikasi ini dirancang khusus bagi mahasiswa agar dapat mencatat dan memantau jadwal akademik serta kondisi finansial dalam satu platform yang mudah diakses dan digunakan. Dengan menggabungkan fitur manajemen waktu, pengingat otomatis, pencatatan keuangan, dan analisis pengeluaran, EduSmart membantu mahasiswa menjadi lebih terorganisir, efisien, dan mandiri dalam menjalani kehidupan perkuliahan.
 </p>
 
 # Tentang Aplikasi 
