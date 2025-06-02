@@ -25,9 +25,8 @@
 <p align="justify">&emsp;&emsp;Untuk menjaga keamanan dan privasi data pengguna, EduSmart menyediakan sistem login yang aman berbasis email dan password. Mahasiswa dapat melakukan registrasi akun baru dengan data yang valid. Jika pengguna lupa kata sandi, tersedia fitur lupa password melalui email yang telah terdaftar. Fitur ini dirancang agar akses ke aplikasi hanya dapat dilakukan oleh pengguna yang sah, serta memberikan fleksibilitas dan kontrol penuh terhadap akun pribadi mereka.</p>
 
 ## 2. Manajemen Jadwal Akademik
-&emsp;&emsp;📅 Manajemen Jadwal Kuliah, Tugas, & Ujian
-    
-&emsp;&emsp;- EduSmart menyediakan fitur pencatatan jadwal akademik secara manual, di mana pengguna dapat mengisi detail seperti nama jadwal, ruangan, jenis kegiatan (kuliah, tugas, atau ujian), tanggal, jam mulai, dan jam berakhir.
+📅 Manajemen Jadwal Kuliah, Tugas, & Ujian\n
+- EduSmart menyediakan fitur pencatatan jadwal akademik secara manual, di mana pengguna dapat mengisi detail seperti nama jadwal, ruangan, jenis kegiatan (kuliah, tugas, atau ujian), tanggal, jam mulai, dan jam berakhir.
     
 &emsp;&emsp;- Aplikasi ini juga mendukung sinkronisasi dengan Flutter Calendar, memungkinkan tampilan jadwal yang lebih terorganisir dan interaktif.
     
